@@ -1,1 +1,1 @@
-this is my first readme on redirections
+this my readme
